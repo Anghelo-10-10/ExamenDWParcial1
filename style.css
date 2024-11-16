@@ -1,0 +1,28 @@
+.carta{
+    display: flex;
+    background-color: aqua;
+    flex-direction: column;
+    margin-top: 40px;
+    border-radius: 10px;
+    height: 300px;
+    width: 200px;
+
+    
+    
+    
+    
+    
+
+    
+}
+
+
+.p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.p1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
